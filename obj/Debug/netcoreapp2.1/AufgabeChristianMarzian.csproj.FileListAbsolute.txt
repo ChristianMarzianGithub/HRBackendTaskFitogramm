@@ -1,0 +1,14 @@
+C:\Users\Free\Desktop\AufgabeChristianMarzian\bin\Debug\netcoreapp2.1\AufgabeChristianMarzian.deps.json
+C:\Users\Free\Desktop\AufgabeChristianMarzian\bin\Debug\netcoreapp2.1\AufgabeChristianMarzian.runtimeconfig.json
+C:\Users\Free\Desktop\AufgabeChristianMarzian\bin\Debug\netcoreapp2.1\AufgabeChristianMarzian.runtimeconfig.dev.json
+C:\Users\Free\Desktop\AufgabeChristianMarzian\bin\Debug\netcoreapp2.1\AufgabeChristianMarzian.dll
+C:\Users\Free\Desktop\AufgabeChristianMarzian\bin\Debug\netcoreapp2.1\AufgabeChristianMarzian.pdb
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.csprojAssemblyReference.cache
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.csproj.CoreCompileInputs.cache
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.RazorAssemblyInfo.cache
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.RazorAssemblyInfo.cs
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.AssemblyInfoInputs.cache
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.AssemblyInfo.cs
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.RazorTargetAssemblyInfo.cache
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.dll
+C:\Users\Free\Desktop\AufgabeChristianMarzian\obj\Debug\netcoreapp2.1\AufgabeChristianMarzian.pdb
